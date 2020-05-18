@@ -1,7 +1,7 @@
 
 
 import Foundation
-struct NowPlaying : Codable {
+struct NowPlayingMovies : Codable {
 	let results : [Results]?
 	let page : Int?
 	let total_results : Int?

@@ -1,0 +1,6 @@
+module Pods_smartApp_Test {
+  umbrella header "Pods-smartApp Test-umbrella.h"
+
+  export *
+  module * { export * }
+}

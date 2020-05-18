@@ -1,7 +1,7 @@
 
 
 import Foundation
-struct Json4Swift_Base : Codable {
+struct TopRated : Codable {
 	let page : Int?
 	let total_results : Int?
 	let total_pages : Int?
